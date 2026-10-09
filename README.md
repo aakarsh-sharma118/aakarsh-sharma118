@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+React.js+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;Architecting+Fault-Tolerant+%26+High-Throughput+Systems;Led+Zero-Downtime+Node.js+Migration+(%2B65%25+Perf+Gain);Distributed+Workflows+%7C+Idempotency+%7C+Temporal.io" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;Architecting+Scalable+%26+Fault-Tolerant+Systems;Zero-Downtime+Node.js+Upgrade+(%2B65%25+Perf+Gain);Distributed+Workflows+%7C+Temporal.io+%26+Idempotency" alt="Typing SVG" />
   </a>
 </div>
 
