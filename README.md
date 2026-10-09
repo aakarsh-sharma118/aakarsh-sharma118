@@ -80,7 +80,7 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Metrics
 
 <div align="center" style="margin-top: 15px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakarsh-sharma118&layout=compact&theme=tokyonight&hide_border=true" width="55%" alt="Top Languages" />
