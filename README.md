@@ -82,11 +82,6 @@
 
 ### 📊 GitHub Activity & Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakarsh-sharma118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Aakarsh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakarsh-sharma118&theme=tokyonight&hide_border=true" width="48%" alt="Aakarsh's Streak" />
-</div>
-
 <div align="center" style="margin-top: 15px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakarsh-sharma118&layout=compact&theme=tokyonight&hide_border=true" width="55%" alt="Top Languages" />
 </div>
