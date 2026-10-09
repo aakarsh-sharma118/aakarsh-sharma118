@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:sharmaaakarsh2@gmail.com"><img src="https://img.shields.io/badge/Email-sharmaaakarsh2%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/aakarsh-sharma"><img src="https://img.shields.io/badge/LinkedIn-Aakarsh_Sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/aakarsh-sharma-493421221/"><img src="https://img.shields.io/badge/LinkedIn-Aakarsh_Sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/aakarsh-sharma118"><img src="https://img.shields.io/badge/GitHub-aakarsh--sharma118-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -82,7 +82,7 @@
 
 ### 💬 Let's Connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/aakarsh-sharma](https://linkedin.com/in/aakarsh-sharma)
+- 💼 **LinkedIn:** [linkedin.com/in/aakarsh-sharma](https://www.linkedin.com/in/aakarsh-sharma-493421221/)
 - 📧 **Direct:** [sharmaaakarsh2@gmail.com](mailto:sharmaaakarsh2@gmail.com)
 - 🌐 **Location:** New Delhi, India (Open to Remote & Relocation)
 
